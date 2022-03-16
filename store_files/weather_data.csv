@@ -1,0 +1,11 @@
+City-Name,Description,Temperature,Feels Like Temperature,Min Temperature,Max Temperature,Humidity,Clouds
+Patna,clear sky,91.33,93.9,91.33,91.33,43,1
+Delhi,haze,89.69,93.16,89.69,89.69,48,12
+Goa,overcast clouds,86.38,84.4,86.38,86.38,32,88
+Bengaluru,few clouds,88.14,85.26,84.85,89.42,26,20
+Hyderabad,overcast clouds,93.61,90.16,93.61,98.11,21,89
+Jaipur,haze,94.32,93.09,94.32,94.32,29,99
+Punjab,clear sky,104.25,98.83,104.25,104.25,10,8
+Lucknow,haze,89.58,102.15,89.58,89.58,66,7
+Srinagar,clear sky,69.94,68.05,69.94,69.94,30,0
+Kolkata,haze,94.95,92.97,94.95,94.95,26,13
